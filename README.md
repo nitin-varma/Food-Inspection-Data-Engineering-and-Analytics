@@ -5,8 +5,8 @@
 **Designing Advanced Data Architectures for Business Intelligence**
 
 ### Team Members
-- Dharun Karthick Ramaraj
 - Nitin Sai Varma Indukuri
+- Dharun Karthick Ramaraj
 - Nikhil Godalla
 - Linata Deshmukh
 
